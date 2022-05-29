@@ -1,0 +1,26 @@
+﻿  ChatServer-Week08.cpp
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(24,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(47,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(60,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(66,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(77,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(81,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(93,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(97,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(100,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(101,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(102,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(114,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(152,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(167,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(175,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(183,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(189,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(241,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(248,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(145,19): warning C4101: 'tag': unreferenced local variable
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(279,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(279,16): message : consider using '%lld' in the format string
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(279,16): message : consider using '%Id' in the format string
+C:\Users\fptshop\source\repos\developNetwork\ChatServer-Week08\ChatServer-Week08.cpp(279,16): message : consider using '%I64d' in the format string
+  ChatServer-Week08.vcxproj -> C:\Users\fptshop\source\repos\developNetwork\x64\Debug\ChatServer-Week08.exe
